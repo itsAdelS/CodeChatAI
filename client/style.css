@@ -9,6 +9,9 @@
 
 header{
   background-image: linear-gradient(180deg, #2fb9e4, #343541);
+  text-align: center;
+  color:center;
+  font-size: 30px;
 }
 
 @media screen and (display-mode: standalone){
