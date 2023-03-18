@@ -20,6 +20,7 @@ header{
   header{
     height: 88px !important;
     margin-top: 22;
+    padding-top: 22;
   }
 }
 
@@ -132,7 +133,6 @@ form {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-  margin-top: 11;
   padding: 10px;
   background: #40414F;
 
