@@ -8,11 +8,11 @@
 }
 
 header{
-  visibility: hidden;
+  display: none;
 }
 
-@media screen and (display-mode: standalone){
-  header{
+@media only screen and (display-mode: standalone){
+  .header{
     height: 88px !important;
     margin-top: 22;
     padding-top: 22;
@@ -20,9 +20,8 @@ header{
     text-align: center;
     color:white;
     font-size: 30px;
-    position: relative;
+    position: fixed;
     width: 100%;
-    visibility: visible;
   }
 }
 
