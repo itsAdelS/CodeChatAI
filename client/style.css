@@ -19,7 +19,7 @@ header{
 @media screen and (display-mode: standalone){
   header{
     height: 88px !important;
-    margin-top: 22px;
+    margin-top: 50px;
   }
 }
 
