@@ -8,7 +8,7 @@
 }
 
 header{
-  visibility: hidden;
+  color: #343541;
 }
 
 @media screen and (display-mode: standalone){
