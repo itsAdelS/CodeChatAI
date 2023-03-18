@@ -8,19 +8,21 @@
 }
 
 header{
-  background-image: linear-gradient(180deg, #2fb9e4, #343541);
-  text-align: center;
-  color:white;
-  font-size: 30px;
-  position: relative;
-  width: 100%;
+  visibility: hidden;
 }
 
 @media screen and (display-mode: standalone){
   header{
-    height: 100px !important;
+    height: 88px !important;
     margin-top: 22;
     padding-top: 22;
+    background-image: linear-gradient(180deg, #2fb9e4, #343541);
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    position: relative;
+    width: 100%;
+    visibility: visible;
   }
 }
 
