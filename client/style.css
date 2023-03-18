@@ -8,7 +8,7 @@
 }
 
 header{
-  display: none;
+  visibility: hidden;
 }
 
 @media screen and (display-mode: standalone){
@@ -22,6 +22,7 @@ header{
     font-size: 30px;
     position: fixed;
     width: 100%;
+    visibility: visible;
   }
 }
 
