@@ -19,7 +19,7 @@ header{
 @media screen and (display-mode: standalone){
   header{
     height: 88px !important;
-    margin-top: 200px;
+    margin-top: 22;
   }
 }
 
@@ -132,6 +132,7 @@ form {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
+  margin: 11;
   padding: 10px;
   background: #40414F;
 
