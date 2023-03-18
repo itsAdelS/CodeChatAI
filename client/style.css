@@ -18,7 +18,7 @@ header{
 
 @media screen and (display-mode: standalone){
   header{
-    height: 88px !important;
+    height: 100px !important;
     margin-top: 22;
     padding-top: 22;
   }
