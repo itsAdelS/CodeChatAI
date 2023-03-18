@@ -12,6 +12,7 @@ header{
   text-align: center;
   color:white;
   font-size: 30px;
+  position: fixed;
 }
 
 @media screen and (display-mode: standalone){
