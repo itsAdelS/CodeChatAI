@@ -7,6 +7,10 @@
   font-family: "Alegreya Sans", sans-serif;
 }
 
+header{
+  background-image: linear-gradient(180deg, #2fb9e4, #343541);
+}
+
 @media screen and (display-mode: standalone){
   header{
     height: 88px !important;
